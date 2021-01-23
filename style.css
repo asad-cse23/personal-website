@@ -1,26 +1,83 @@
 body{
-    margin: 100px;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
 }
-.orange-highlight{
-    color: orange;
+section{
+    height: 700px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+   font-size: 40px;
+}
+.name-highlight{
+    color: tomato;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(180deg,lightSalmon,tomato);
-    border-radius: 5px;
-    padding: 10px 20px;
+    border-radius: 10px;
+    padding: 20px 40px;
     color: white;
+
 }
-img{
-    width: 50%;
-}
-.half-width{
-    float: left;
-    width: 50%;
+.my-image{
+    width: 70%;
 }
 
-.top-banner{
+.half-width{
+    float: left;
+    width: 40%;
+}
+.about{
+    margin-top: 100px;
+}  
+#first-section{
+  margin-left: 300px;
+  margin-bottom: 100px;
+}
+.project{
+    margin-top: 300px;
+}
+.lastet-project{
     padding-bottom: 100px;
+    text-align: center;
+}
+.one-third{
+    float: left;
+    width: 30%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+}
+.one-third img{
+    width: 70%;
+}
+.inquary{
+    
+}
+#inquary{
+    background-image: url(shapes/Group_33094_1.png);
+    background-position: center;
+    text-align: center;
+    position: center;
+    margin-left: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+    
+}
+.work{
+    color: white;
+}
+.last-div{
+   padding-top: 300px;
+   margin-left:650px;
+   
+}
+.last-div img{
+    width: 5%;
+
+}
+#let-button{
+    margin-bottom: 20px;
 }
